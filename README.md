@@ -5,7 +5,7 @@ Just a simple live reload using signalr.
 Build and run in a command prompt with administrator permissions:
 
 ```
-ReloadSignal\bin\Debug>ReloadSignal.exe c:\projects\reloadsignal\ClientApplication
+ReloadSignal\bin\Debug>ReloadSignal.exe ..\..\..\ClientApplication
 ```
 
 It will watch the directory ClientApplication for any changes, in any subdirectories.
